@@ -148,3 +148,4 @@ train, test = chrono_split(df, test_start="2025-11-01")   # last 12 months, ever
 - `03`: pandas datetime-format, `SettingWithCopy`, and `isin` FutureWarnings.
 - `03c`: matplotlib `labels` deprecation.
 - `04`: datetime-format warning, and a correlation warning for event columns until the events CSV has rows.
+- `05`: numpy `RuntimeWarning` lines (`divide by zero`, `overflow`, `invalid value encountered in matmul`) printed before the tables. They appear when numpy runs on Apple's Accelerate library (pip-installed numpy on an Apple Silicon Mac), come from the start-value step inside statsmodels, and do not change any number.
