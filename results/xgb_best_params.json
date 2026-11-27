@@ -1,0 +1,14 @@
+{
+  "max_depth": 4,
+  "learning_rate": 0.03,
+  "min_child_weight": 20,
+  "subsample": 0.6,
+  "colsample_bytree": 1.0,
+  "reg_lambda": 0.1,
+  "reg_alpha": 0.1,
+  "gamma": 0.5,
+  "n_trees": 179,
+  "target": "ratio",
+  "objective": "squarederror",
+  "val_MAE": 196.6197354925501
+}
