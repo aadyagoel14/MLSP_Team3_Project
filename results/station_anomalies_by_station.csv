@@ -1,0 +1,11 @@
+station,days,local_flags,surges,drops,flag_rate_%
+S_Bouquet_Ave_&_Sennott_St,365,37,2,35,10.1
+Forbes_Ave_at_TCS_Hall_(CMU_Campus),365,26,16,10,7.1
+Atwood_St_&_Bates_St,365,22,3,19,6.0
+O'Hara_St_&_University_Place,365,16,1,15,4.4
+Fifth_Ave_&_S_Bouquet_St,365,13,5,8,3.6
+Zulema_St_&_Coltart_Ave,365,12,2,10,3.3
+N_Dithridge_St_&_Centre_Ave,365,8,4,4,2.2
+Boulevard_of_the_Allies_&_Parkview_Ave,365,7,2,5,1.9
+Coltart_Ave_&_Forbes_Ave,365,6,1,5,1.6
+Schenley_Dr_&_Schenley_Dr_Ext,362,6,4,2,1.7
